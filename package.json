@@ -89,7 +89,8 @@
         "fs-plus": false
       },
       "outputFormat": "commonjs",
-      "isLibrary": true
+      "isLibrary": true,
+      "optimize": true
     }
   },
   "viewProviders": [
